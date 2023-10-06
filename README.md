@@ -1,3 +1,4 @@
+Updated version of UCTRONIC's add-on, with contributions by craigmmcoy.
 
 # Home Assistant Add-ons
 
